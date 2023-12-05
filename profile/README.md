@@ -2,7 +2,7 @@
 Banner Image
 -->
 
-## Developer Community trying to build cool stuff
+## Developer Collective trying to build cool stuff
 
 <!--
 
